@@ -5,4 +5,4 @@ calculaete();
 
 function calculate(n1, n2, op) {
   let result = n1 * n2; //곱하기로 바꿈
-}
+} //주석 추가
