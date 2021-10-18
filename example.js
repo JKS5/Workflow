@@ -1,6 +1,6 @@
 
 let num1 = 5;
-let num2 = 7;
+let num2 = 733;
 let operator = "*";
 calculaete();
 
